@@ -40,6 +40,3 @@ npm emotion/react
 npm emotion/styled
 npm mui/material
 
-#Notes
-
-DemoGlobe.js is the main page 
