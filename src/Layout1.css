@@ -1,0 +1,27 @@
+.ant-statistic-content {
+    font-size: 20px;
+    
+  }
+.Pageheader{
+ 
+    padding-top: 0;
+    
+}
+.logo_leftcircle{
+  float: right;
+
+}
+.detail-live-attack .ant-card-head{
+  border-bottom: 2px solid #1b241e;
+}
+
+.detail-stack-graph .ant-card-head{
+  border-bottom: 2px solid #1b241e;
+}
+/* .detail-stack-graph .ant-card-body{
+
+} */
+
+.detail-line-graph .ant-card-head{
+  border-bottom: 2px solid #1b241e;
+}

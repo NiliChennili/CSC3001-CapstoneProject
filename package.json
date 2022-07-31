@@ -1,0 +1,72 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/charts": "^1.2.14",
+    "@ant-design/dark-theme": "^2.0.2",
+    "@ant-design/pro-card": "^1.18.2",
+    "@ant-design/pro-descriptions": "^1.10.1",
+    "@ant-design/pro-form": "^1.48.1",
+    "@ant-design/pro-layout": "^6.29.1",
+    "@ant-design/pro-list": "^1.19.1",
+    "@ant-design/pro-skeleton": "^1.0.2",
+    "@ant-design/pro-table": "^2.57.1",
+    "@antv/s2": "^1.14.0",
+    "@antv/s2-react": "^1.13.0",
+    "@babel/core": "^7.16.0",
+    "@data-ui/sparkline": "0.0.84",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.2.7",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "antd": "^4.16.13",
+    "d3": "^7.4.4",
+    "insert-css": "^2.0.0",
+    "lodash.find": "^4.6.0",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "react": "^17.0.2",
+    "react-css-theme-switcher": "^0.3.0",
+    "react-dom": "^17.0.2",
+    "react-globe.gl": "^2.18.11",
+    "react-router-dom": "^6.1.1",
+    "react-scripts": "^4.0.3",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1",
+    "gulp-debug": "^4.0.0",
+    "gulp-less": "^5.0.0",
+    "gulp-postcss": "^9.0.1",
+    "less-plugin-npm-import": "^2.1.0"
+  }
+}
